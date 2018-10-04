@@ -1,13 +1,13 @@
 {
-  "main.css": "/gradient-app/static/css/main.841968c6.chunk.css",
-  "main.js": "/gradient-app/static/js/main.0fffa51e.chunk.js",
-  "main.js.map": "/gradient-app/static/js/main.0fffa51e.chunk.js.map",
-  "static/js/1.ad4591f8.chunk.js": "/gradient-app/static/js/1.ad4591f8.chunk.js",
-  "static/js/1.ad4591f8.chunk.js.map": "/gradient-app/static/js/1.ad4591f8.chunk.js.map",
+  "main.css": "/gradient-app/static/css/main.ec4de38d.chunk.css",
+  "main.js": "/gradient-app/static/js/main.0205c7ae.chunk.js",
+  "main.js.map": "/gradient-app/static/js/main.0205c7ae.chunk.js.map",
+  "static/js/1.bdfd492e.chunk.js": "/gradient-app/static/js/1.bdfd492e.chunk.js",
+  "static/js/1.bdfd492e.chunk.js.map": "/gradient-app/static/js/1.bdfd492e.chunk.js.map",
   "runtime~main.js": "/gradient-app/static/js/runtime~main.1df9e36f.js",
   "runtime~main.js.map": "/gradient-app/static/js/runtime~main.1df9e36f.js.map",
-  "static/css/main.841968c6.chunk.css.map": "/gradient-app/static/css/main.841968c6.chunk.css.map",
+  "static/css/main.ec4de38d.chunk.css.map": "/gradient-app/static/css/main.ec4de38d.chunk.css.map",
   "index.html": "/gradient-app/index.html",
-  "precache-manifest.409d2808cc673caf5ca5c27be9c38a2c.js": "/gradient-app/precache-manifest.409d2808cc673caf5ca5c27be9c38a2c.js",
+  "precache-manifest.e9a46d60d9b1ba35c852ab4426c5d379.js": "/gradient-app/precache-manifest.e9a46d60d9b1ba35c852ab4426c5d379.js",
   "service-worker.js": "/gradient-app/service-worker.js"
 }
