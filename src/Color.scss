@@ -1,0 +1,27 @@
+.Colors {
+    display: flex;
+    flex-direction: column;
+    & > input {
+        margin: 5px;
+    }
+}
+
+button {
+    background-color: white; 
+    color: black; 
+    border: 1px solid rgb(89, 29, 107);
+    width: 50px;
+    height: 25px;
+    &:hover {
+    background-color: rgb(89, 29, 107);
+    color: white;
+    }
+    &:focus {
+    outline: 0;
+    }
+}
+
+input:invalid {
+    border: 2px solid red;
+    outline: 0;
+  }
